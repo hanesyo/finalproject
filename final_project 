@@ -1,6 +1,6 @@
 #Final Project
 import random
-import os
+import os # no use of this in current code
 
 die_faces = (1,2,3,4,5,6)
 
@@ -19,3 +19,5 @@ while rolls < 3:
 
 print(roll_results)
 print(roll_count)
+# code runs properly  and gives desired output
+# requires more work though, unfinished code
